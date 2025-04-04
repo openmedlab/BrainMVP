@@ -2,7 +2,7 @@
 <a href="https://arxiv.org/abs/2410.10604"><img src='https://img.shields.io/badge/arXiv-BrainMVP-red' alt='Paper PDF'></a>
 <a href='https://huggingface.co/datasets/shaohao011/BrainMVP-16k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 
-Code for our CVPR 2025 paper [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604)
+Code for our CVPR 2025 paper[Highlight] [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604)
 
 [openmedlab](https://github.com/openmedlab/BrainMVP)
 TL;DR
