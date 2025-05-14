@@ -1,0 +1,1910 @@
+{
+    "training": [
+        {
+            "image": [
+                "sub-strokecase0001_ses-0001/sub-strokecase0001_ses-0001_adc.nii.gz",
+                "sub-strokecase0001_ses-0001/sub-strokecase0001_ses-0001_dwi.nii.gz",
+                "sub-strokecase0001_ses-0001/sub-strokecase0001_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0001_ses-0001/sub-strokecase0001_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0002_ses-0001/sub-strokecase0002_ses-0001_adc.nii.gz",
+                "sub-strokecase0002_ses-0001/sub-strokecase0002_ses-0001_dwi.nii.gz",
+                "sub-strokecase0002_ses-0001/sub-strokecase0002_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0002_ses-0001/sub-strokecase0002_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0003_ses-0001/sub-strokecase0003_ses-0001_adc.nii.gz",
+                "sub-strokecase0003_ses-0001/sub-strokecase0003_ses-0001_dwi.nii.gz",
+                "sub-strokecase0003_ses-0001/sub-strokecase0003_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0003_ses-0001/sub-strokecase0003_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0006_ses-0001/sub-strokecase0006_ses-0001_adc.nii.gz",
+                "sub-strokecase0006_ses-0001/sub-strokecase0006_ses-0001_dwi.nii.gz",
+                "sub-strokecase0006_ses-0001/sub-strokecase0006_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0006_ses-0001/sub-strokecase0006_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0007_ses-0001/sub-strokecase0007_ses-0001_adc.nii.gz",
+                "sub-strokecase0007_ses-0001/sub-strokecase0007_ses-0001_dwi.nii.gz",
+                "sub-strokecase0007_ses-0001/sub-strokecase0007_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0007_ses-0001/sub-strokecase0007_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0008_ses-0001/sub-strokecase0008_ses-0001_adc.nii.gz",
+                "sub-strokecase0008_ses-0001/sub-strokecase0008_ses-0001_dwi.nii.gz",
+                "sub-strokecase0008_ses-0001/sub-strokecase0008_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0008_ses-0001/sub-strokecase0008_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0009_ses-0001/sub-strokecase0009_ses-0001_adc.nii.gz",
+                "sub-strokecase0009_ses-0001/sub-strokecase0009_ses-0001_dwi.nii.gz",
+                "sub-strokecase0009_ses-0001/sub-strokecase0009_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0009_ses-0001/sub-strokecase0009_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0010_ses-0001/sub-strokecase0010_ses-0001_adc.nii.gz",
+                "sub-strokecase0010_ses-0001/sub-strokecase0010_ses-0001_dwi.nii.gz",
+                "sub-strokecase0010_ses-0001/sub-strokecase0010_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0010_ses-0001/sub-strokecase0010_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0011_ses-0001/sub-strokecase0011_ses-0001_adc.nii.gz",
+                "sub-strokecase0011_ses-0001/sub-strokecase0011_ses-0001_dwi.nii.gz",
+                "sub-strokecase0011_ses-0001/sub-strokecase0011_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0011_ses-0001/sub-strokecase0011_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0012_ses-0001/sub-strokecase0012_ses-0001_adc.nii.gz",
+                "sub-strokecase0012_ses-0001/sub-strokecase0012_ses-0001_dwi.nii.gz",
+                "sub-strokecase0012_ses-0001/sub-strokecase0012_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0012_ses-0001/sub-strokecase0012_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0014_ses-0001/sub-strokecase0014_ses-0001_adc.nii.gz",
+                "sub-strokecase0014_ses-0001/sub-strokecase0014_ses-0001_dwi.nii.gz",
+                "sub-strokecase0014_ses-0001/sub-strokecase0014_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0014_ses-0001/sub-strokecase0014_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0015_ses-0001/sub-strokecase0015_ses-0001_adc.nii.gz",
+                "sub-strokecase0015_ses-0001/sub-strokecase0015_ses-0001_dwi.nii.gz",
+                "sub-strokecase0015_ses-0001/sub-strokecase0015_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0015_ses-0001/sub-strokecase0015_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0016_ses-0001/sub-strokecase0016_ses-0001_adc.nii.gz",
+                "sub-strokecase0016_ses-0001/sub-strokecase0016_ses-0001_dwi.nii.gz",
+                "sub-strokecase0016_ses-0001/sub-strokecase0016_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0016_ses-0001/sub-strokecase0016_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0017_ses-0001/sub-strokecase0017_ses-0001_adc.nii.gz",
+                "sub-strokecase0017_ses-0001/sub-strokecase0017_ses-0001_dwi.nii.gz",
+                "sub-strokecase0017_ses-0001/sub-strokecase0017_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0017_ses-0001/sub-strokecase0017_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0018_ses-0001/sub-strokecase0018_ses-0001_adc.nii.gz",
+                "sub-strokecase0018_ses-0001/sub-strokecase0018_ses-0001_dwi.nii.gz",
+                "sub-strokecase0018_ses-0001/sub-strokecase0018_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0018_ses-0001/sub-strokecase0018_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0019_ses-0001/sub-strokecase0019_ses-0001_adc.nii.gz",
+                "sub-strokecase0019_ses-0001/sub-strokecase0019_ses-0001_dwi.nii.gz",
+                "sub-strokecase0019_ses-0001/sub-strokecase0019_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0019_ses-0001/sub-strokecase0019_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0021_ses-0001/sub-strokecase0021_ses-0001_adc.nii.gz",
+                "sub-strokecase0021_ses-0001/sub-strokecase0021_ses-0001_dwi.nii.gz",
+                "sub-strokecase0021_ses-0001/sub-strokecase0021_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0021_ses-0001/sub-strokecase0021_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0023_ses-0001/sub-strokecase0023_ses-0001_adc.nii.gz",
+                "sub-strokecase0023_ses-0001/sub-strokecase0023_ses-0001_dwi.nii.gz",
+                "sub-strokecase0023_ses-0001/sub-strokecase0023_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0023_ses-0001/sub-strokecase0023_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0024_ses-0001/sub-strokecase0024_ses-0001_adc.nii.gz",
+                "sub-strokecase0024_ses-0001/sub-strokecase0024_ses-0001_dwi.nii.gz",
+                "sub-strokecase0024_ses-0001/sub-strokecase0024_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0024_ses-0001/sub-strokecase0024_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0025_ses-0001/sub-strokecase0025_ses-0001_adc.nii.gz",
+                "sub-strokecase0025_ses-0001/sub-strokecase0025_ses-0001_dwi.nii.gz",
+                "sub-strokecase0025_ses-0001/sub-strokecase0025_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0025_ses-0001/sub-strokecase0025_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0027_ses-0001/sub-strokecase0027_ses-0001_adc.nii.gz",
+                "sub-strokecase0027_ses-0001/sub-strokecase0027_ses-0001_dwi.nii.gz",
+                "sub-strokecase0027_ses-0001/sub-strokecase0027_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0027_ses-0001/sub-strokecase0027_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0028_ses-0001/sub-strokecase0028_ses-0001_adc.nii.gz",
+                "sub-strokecase0028_ses-0001/sub-strokecase0028_ses-0001_dwi.nii.gz",
+                "sub-strokecase0028_ses-0001/sub-strokecase0028_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0028_ses-0001/sub-strokecase0028_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0029_ses-0001/sub-strokecase0029_ses-0001_adc.nii.gz",
+                "sub-strokecase0029_ses-0001/sub-strokecase0029_ses-0001_dwi.nii.gz",
+                "sub-strokecase0029_ses-0001/sub-strokecase0029_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0029_ses-0001/sub-strokecase0029_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0030_ses-0001/sub-strokecase0030_ses-0001_adc.nii.gz",
+                "sub-strokecase0030_ses-0001/sub-strokecase0030_ses-0001_dwi.nii.gz",
+                "sub-strokecase0030_ses-0001/sub-strokecase0030_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0030_ses-0001/sub-strokecase0030_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0032_ses-0001/sub-strokecase0032_ses-0001_adc.nii.gz",
+                "sub-strokecase0032_ses-0001/sub-strokecase0032_ses-0001_dwi.nii.gz",
+                "sub-strokecase0032_ses-0001/sub-strokecase0032_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0032_ses-0001/sub-strokecase0032_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0036_ses-0001/sub-strokecase0036_ses-0001_adc.nii.gz",
+                "sub-strokecase0036_ses-0001/sub-strokecase0036_ses-0001_dwi.nii.gz",
+                "sub-strokecase0036_ses-0001/sub-strokecase0036_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0036_ses-0001/sub-strokecase0036_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0037_ses-0001/sub-strokecase0037_ses-0001_adc.nii.gz",
+                "sub-strokecase0037_ses-0001/sub-strokecase0037_ses-0001_dwi.nii.gz",
+                "sub-strokecase0037_ses-0001/sub-strokecase0037_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0037_ses-0001/sub-strokecase0037_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0038_ses-0001/sub-strokecase0038_ses-0001_adc.nii.gz",
+                "sub-strokecase0038_ses-0001/sub-strokecase0038_ses-0001_dwi.nii.gz",
+                "sub-strokecase0038_ses-0001/sub-strokecase0038_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0038_ses-0001/sub-strokecase0038_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0039_ses-0001/sub-strokecase0039_ses-0001_adc.nii.gz",
+                "sub-strokecase0039_ses-0001/sub-strokecase0039_ses-0001_dwi.nii.gz",
+                "sub-strokecase0039_ses-0001/sub-strokecase0039_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0039_ses-0001/sub-strokecase0039_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0041_ses-0001/sub-strokecase0041_ses-0001_adc.nii.gz",
+                "sub-strokecase0041_ses-0001/sub-strokecase0041_ses-0001_dwi.nii.gz",
+                "sub-strokecase0041_ses-0001/sub-strokecase0041_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0041_ses-0001/sub-strokecase0041_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0042_ses-0001/sub-strokecase0042_ses-0001_adc.nii.gz",
+                "sub-strokecase0042_ses-0001/sub-strokecase0042_ses-0001_dwi.nii.gz",
+                "sub-strokecase0042_ses-0001/sub-strokecase0042_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0042_ses-0001/sub-strokecase0042_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0043_ses-0001/sub-strokecase0043_ses-0001_adc.nii.gz",
+                "sub-strokecase0043_ses-0001/sub-strokecase0043_ses-0001_dwi.nii.gz",
+                "sub-strokecase0043_ses-0001/sub-strokecase0043_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0043_ses-0001/sub-strokecase0043_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0044_ses-0001/sub-strokecase0044_ses-0001_adc.nii.gz",
+                "sub-strokecase0044_ses-0001/sub-strokecase0044_ses-0001_dwi.nii.gz",
+                "sub-strokecase0044_ses-0001/sub-strokecase0044_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0044_ses-0001/sub-strokecase0044_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0045_ses-0001/sub-strokecase0045_ses-0001_adc.nii.gz",
+                "sub-strokecase0045_ses-0001/sub-strokecase0045_ses-0001_dwi.nii.gz",
+                "sub-strokecase0045_ses-0001/sub-strokecase0045_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0045_ses-0001/sub-strokecase0045_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0046_ses-0001/sub-strokecase0046_ses-0001_adc.nii.gz",
+                "sub-strokecase0046_ses-0001/sub-strokecase0046_ses-0001_dwi.nii.gz",
+                "sub-strokecase0046_ses-0001/sub-strokecase0046_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0046_ses-0001/sub-strokecase0046_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0047_ses-0001/sub-strokecase0047_ses-0001_adc.nii.gz",
+                "sub-strokecase0047_ses-0001/sub-strokecase0047_ses-0001_dwi.nii.gz",
+                "sub-strokecase0047_ses-0001/sub-strokecase0047_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0047_ses-0001/sub-strokecase0047_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0048_ses-0001/sub-strokecase0048_ses-0001_adc.nii.gz",
+                "sub-strokecase0048_ses-0001/sub-strokecase0048_ses-0001_dwi.nii.gz",
+                "sub-strokecase0048_ses-0001/sub-strokecase0048_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0048_ses-0001/sub-strokecase0048_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0049_ses-0001/sub-strokecase0049_ses-0001_adc.nii.gz",
+                "sub-strokecase0049_ses-0001/sub-strokecase0049_ses-0001_dwi.nii.gz",
+                "sub-strokecase0049_ses-0001/sub-strokecase0049_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0049_ses-0001/sub-strokecase0049_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0050_ses-0001/sub-strokecase0050_ses-0001_adc.nii.gz",
+                "sub-strokecase0050_ses-0001/sub-strokecase0050_ses-0001_dwi.nii.gz",
+                "sub-strokecase0050_ses-0001/sub-strokecase0050_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0050_ses-0001/sub-strokecase0050_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0051_ses-0001/sub-strokecase0051_ses-0001_adc.nii.gz",
+                "sub-strokecase0051_ses-0001/sub-strokecase0051_ses-0001_dwi.nii.gz",
+                "sub-strokecase0051_ses-0001/sub-strokecase0051_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0051_ses-0001/sub-strokecase0051_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0052_ses-0001/sub-strokecase0052_ses-0001_adc.nii.gz",
+                "sub-strokecase0052_ses-0001/sub-strokecase0052_ses-0001_dwi.nii.gz",
+                "sub-strokecase0052_ses-0001/sub-strokecase0052_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0052_ses-0001/sub-strokecase0052_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0053_ses-0001/sub-strokecase0053_ses-0001_adc.nii.gz",
+                "sub-strokecase0053_ses-0001/sub-strokecase0053_ses-0001_dwi.nii.gz",
+                "sub-strokecase0053_ses-0001/sub-strokecase0053_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0053_ses-0001/sub-strokecase0053_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0054_ses-0001/sub-strokecase0054_ses-0001_adc.nii.gz",
+                "sub-strokecase0054_ses-0001/sub-strokecase0054_ses-0001_dwi.nii.gz",
+                "sub-strokecase0054_ses-0001/sub-strokecase0054_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0054_ses-0001/sub-strokecase0054_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0055_ses-0001/sub-strokecase0055_ses-0001_adc.nii.gz",
+                "sub-strokecase0055_ses-0001/sub-strokecase0055_ses-0001_dwi.nii.gz",
+                "sub-strokecase0055_ses-0001/sub-strokecase0055_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0055_ses-0001/sub-strokecase0055_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0056_ses-0001/sub-strokecase0056_ses-0001_adc.nii.gz",
+                "sub-strokecase0056_ses-0001/sub-strokecase0056_ses-0001_dwi.nii.gz",
+                "sub-strokecase0056_ses-0001/sub-strokecase0056_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0056_ses-0001/sub-strokecase0056_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0058_ses-0001/sub-strokecase0058_ses-0001_adc.nii.gz",
+                "sub-strokecase0058_ses-0001/sub-strokecase0058_ses-0001_dwi.nii.gz",
+                "sub-strokecase0058_ses-0001/sub-strokecase0058_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0058_ses-0001/sub-strokecase0058_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0059_ses-0001/sub-strokecase0059_ses-0001_adc.nii.gz",
+                "sub-strokecase0059_ses-0001/sub-strokecase0059_ses-0001_dwi.nii.gz",
+                "sub-strokecase0059_ses-0001/sub-strokecase0059_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0059_ses-0001/sub-strokecase0059_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0060_ses-0001/sub-strokecase0060_ses-0001_adc.nii.gz",
+                "sub-strokecase0060_ses-0001/sub-strokecase0060_ses-0001_dwi.nii.gz",
+                "sub-strokecase0060_ses-0001/sub-strokecase0060_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0060_ses-0001/sub-strokecase0060_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0063_ses-0001/sub-strokecase0063_ses-0001_adc.nii.gz",
+                "sub-strokecase0063_ses-0001/sub-strokecase0063_ses-0001_dwi.nii.gz",
+                "sub-strokecase0063_ses-0001/sub-strokecase0063_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0063_ses-0001/sub-strokecase0063_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0064_ses-0001/sub-strokecase0064_ses-0001_adc.nii.gz",
+                "sub-strokecase0064_ses-0001/sub-strokecase0064_ses-0001_dwi.nii.gz",
+                "sub-strokecase0064_ses-0001/sub-strokecase0064_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0064_ses-0001/sub-strokecase0064_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0065_ses-0001/sub-strokecase0065_ses-0001_adc.nii.gz",
+                "sub-strokecase0065_ses-0001/sub-strokecase0065_ses-0001_dwi.nii.gz",
+                "sub-strokecase0065_ses-0001/sub-strokecase0065_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0065_ses-0001/sub-strokecase0065_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0066_ses-0001/sub-strokecase0066_ses-0001_adc.nii.gz",
+                "sub-strokecase0066_ses-0001/sub-strokecase0066_ses-0001_dwi.nii.gz",
+                "sub-strokecase0066_ses-0001/sub-strokecase0066_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0066_ses-0001/sub-strokecase0066_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0067_ses-0001/sub-strokecase0067_ses-0001_adc.nii.gz",
+                "sub-strokecase0067_ses-0001/sub-strokecase0067_ses-0001_dwi.nii.gz",
+                "sub-strokecase0067_ses-0001/sub-strokecase0067_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0067_ses-0001/sub-strokecase0067_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0068_ses-0001/sub-strokecase0068_ses-0001_adc.nii.gz",
+                "sub-strokecase0068_ses-0001/sub-strokecase0068_ses-0001_dwi.nii.gz",
+                "sub-strokecase0068_ses-0001/sub-strokecase0068_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0068_ses-0001/sub-strokecase0068_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0069_ses-0001/sub-strokecase0069_ses-0001_adc.nii.gz",
+                "sub-strokecase0069_ses-0001/sub-strokecase0069_ses-0001_dwi.nii.gz",
+                "sub-strokecase0069_ses-0001/sub-strokecase0069_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0069_ses-0001/sub-strokecase0069_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0070_ses-0001/sub-strokecase0070_ses-0001_adc.nii.gz",
+                "sub-strokecase0070_ses-0001/sub-strokecase0070_ses-0001_dwi.nii.gz",
+                "sub-strokecase0070_ses-0001/sub-strokecase0070_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0070_ses-0001/sub-strokecase0070_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0071_ses-0001/sub-strokecase0071_ses-0001_adc.nii.gz",
+                "sub-strokecase0071_ses-0001/sub-strokecase0071_ses-0001_dwi.nii.gz",
+                "sub-strokecase0071_ses-0001/sub-strokecase0071_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0071_ses-0001/sub-strokecase0071_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0072_ses-0001/sub-strokecase0072_ses-0001_adc.nii.gz",
+                "sub-strokecase0072_ses-0001/sub-strokecase0072_ses-0001_dwi.nii.gz",
+                "sub-strokecase0072_ses-0001/sub-strokecase0072_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0072_ses-0001/sub-strokecase0072_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0073_ses-0001/sub-strokecase0073_ses-0001_adc.nii.gz",
+                "sub-strokecase0073_ses-0001/sub-strokecase0073_ses-0001_dwi.nii.gz",
+                "sub-strokecase0073_ses-0001/sub-strokecase0073_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0073_ses-0001/sub-strokecase0073_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0075_ses-0001/sub-strokecase0075_ses-0001_adc.nii.gz",
+                "sub-strokecase0075_ses-0001/sub-strokecase0075_ses-0001_dwi.nii.gz",
+                "sub-strokecase0075_ses-0001/sub-strokecase0075_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0075_ses-0001/sub-strokecase0075_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0076_ses-0001/sub-strokecase0076_ses-0001_adc.nii.gz",
+                "sub-strokecase0076_ses-0001/sub-strokecase0076_ses-0001_dwi.nii.gz",
+                "sub-strokecase0076_ses-0001/sub-strokecase0076_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0076_ses-0001/sub-strokecase0076_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0077_ses-0001/sub-strokecase0077_ses-0001_adc.nii.gz",
+                "sub-strokecase0077_ses-0001/sub-strokecase0077_ses-0001_dwi.nii.gz",
+                "sub-strokecase0077_ses-0001/sub-strokecase0077_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0077_ses-0001/sub-strokecase0077_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0078_ses-0001/sub-strokecase0078_ses-0001_adc.nii.gz",
+                "sub-strokecase0078_ses-0001/sub-strokecase0078_ses-0001_dwi.nii.gz",
+                "sub-strokecase0078_ses-0001/sub-strokecase0078_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0078_ses-0001/sub-strokecase0078_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0079_ses-0001/sub-strokecase0079_ses-0001_adc.nii.gz",
+                "sub-strokecase0079_ses-0001/sub-strokecase0079_ses-0001_dwi.nii.gz",
+                "sub-strokecase0079_ses-0001/sub-strokecase0079_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0079_ses-0001/sub-strokecase0079_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0080_ses-0001/sub-strokecase0080_ses-0001_adc.nii.gz",
+                "sub-strokecase0080_ses-0001/sub-strokecase0080_ses-0001_dwi.nii.gz",
+                "sub-strokecase0080_ses-0001/sub-strokecase0080_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0080_ses-0001/sub-strokecase0080_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0081_ses-0001/sub-strokecase0081_ses-0001_adc.nii.gz",
+                "sub-strokecase0081_ses-0001/sub-strokecase0081_ses-0001_dwi.nii.gz",
+                "sub-strokecase0081_ses-0001/sub-strokecase0081_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0081_ses-0001/sub-strokecase0081_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0082_ses-0001/sub-strokecase0082_ses-0001_adc.nii.gz",
+                "sub-strokecase0082_ses-0001/sub-strokecase0082_ses-0001_dwi.nii.gz",
+                "sub-strokecase0082_ses-0001/sub-strokecase0082_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0082_ses-0001/sub-strokecase0082_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0083_ses-0001/sub-strokecase0083_ses-0001_adc.nii.gz",
+                "sub-strokecase0083_ses-0001/sub-strokecase0083_ses-0001_dwi.nii.gz",
+                "sub-strokecase0083_ses-0001/sub-strokecase0083_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0083_ses-0001/sub-strokecase0083_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0084_ses-0001/sub-strokecase0084_ses-0001_adc.nii.gz",
+                "sub-strokecase0084_ses-0001/sub-strokecase0084_ses-0001_dwi.nii.gz",
+                "sub-strokecase0084_ses-0001/sub-strokecase0084_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0084_ses-0001/sub-strokecase0084_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0085_ses-0001/sub-strokecase0085_ses-0001_adc.nii.gz",
+                "sub-strokecase0085_ses-0001/sub-strokecase0085_ses-0001_dwi.nii.gz",
+                "sub-strokecase0085_ses-0001/sub-strokecase0085_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0085_ses-0001/sub-strokecase0085_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0086_ses-0001/sub-strokecase0086_ses-0001_adc.nii.gz",
+                "sub-strokecase0086_ses-0001/sub-strokecase0086_ses-0001_dwi.nii.gz",
+                "sub-strokecase0086_ses-0001/sub-strokecase0086_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0086_ses-0001/sub-strokecase0086_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0087_ses-0001/sub-strokecase0087_ses-0001_adc.nii.gz",
+                "sub-strokecase0087_ses-0001/sub-strokecase0087_ses-0001_dwi.nii.gz",
+                "sub-strokecase0087_ses-0001/sub-strokecase0087_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0087_ses-0001/sub-strokecase0087_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0088_ses-0001/sub-strokecase0088_ses-0001_adc.nii.gz",
+                "sub-strokecase0088_ses-0001/sub-strokecase0088_ses-0001_dwi.nii.gz",
+                "sub-strokecase0088_ses-0001/sub-strokecase0088_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0088_ses-0001/sub-strokecase0088_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0089_ses-0001/sub-strokecase0089_ses-0001_adc.nii.gz",
+                "sub-strokecase0089_ses-0001/sub-strokecase0089_ses-0001_dwi.nii.gz",
+                "sub-strokecase0089_ses-0001/sub-strokecase0089_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0089_ses-0001/sub-strokecase0089_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0090_ses-0001/sub-strokecase0090_ses-0001_adc.nii.gz",
+                "sub-strokecase0090_ses-0001/sub-strokecase0090_ses-0001_dwi.nii.gz",
+                "sub-strokecase0090_ses-0001/sub-strokecase0090_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0090_ses-0001/sub-strokecase0090_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0091_ses-0001/sub-strokecase0091_ses-0001_adc.nii.gz",
+                "sub-strokecase0091_ses-0001/sub-strokecase0091_ses-0001_dwi.nii.gz",
+                "sub-strokecase0091_ses-0001/sub-strokecase0091_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0091_ses-0001/sub-strokecase0091_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0093_ses-0001/sub-strokecase0093_ses-0001_adc.nii.gz",
+                "sub-strokecase0093_ses-0001/sub-strokecase0093_ses-0001_dwi.nii.gz",
+                "sub-strokecase0093_ses-0001/sub-strokecase0093_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0093_ses-0001/sub-strokecase0093_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0094_ses-0001/sub-strokecase0094_ses-0001_adc.nii.gz",
+                "sub-strokecase0094_ses-0001/sub-strokecase0094_ses-0001_dwi.nii.gz",
+                "sub-strokecase0094_ses-0001/sub-strokecase0094_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0094_ses-0001/sub-strokecase0094_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0095_ses-0001/sub-strokecase0095_ses-0001_adc.nii.gz",
+                "sub-strokecase0095_ses-0001/sub-strokecase0095_ses-0001_dwi.nii.gz",
+                "sub-strokecase0095_ses-0001/sub-strokecase0095_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0095_ses-0001/sub-strokecase0095_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0096_ses-0001/sub-strokecase0096_ses-0001_adc.nii.gz",
+                "sub-strokecase0096_ses-0001/sub-strokecase0096_ses-0001_dwi.nii.gz",
+                "sub-strokecase0096_ses-0001/sub-strokecase0096_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0096_ses-0001/sub-strokecase0096_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0097_ses-0001/sub-strokecase0097_ses-0001_adc.nii.gz",
+                "sub-strokecase0097_ses-0001/sub-strokecase0097_ses-0001_dwi.nii.gz",
+                "sub-strokecase0097_ses-0001/sub-strokecase0097_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0097_ses-0001/sub-strokecase0097_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0098_ses-0001/sub-strokecase0098_ses-0001_adc.nii.gz",
+                "sub-strokecase0098_ses-0001/sub-strokecase0098_ses-0001_dwi.nii.gz",
+                "sub-strokecase0098_ses-0001/sub-strokecase0098_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0098_ses-0001/sub-strokecase0098_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0099_ses-0001/sub-strokecase0099_ses-0001_adc.nii.gz",
+                "sub-strokecase0099_ses-0001/sub-strokecase0099_ses-0001_dwi.nii.gz",
+                "sub-strokecase0099_ses-0001/sub-strokecase0099_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0099_ses-0001/sub-strokecase0099_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0100_ses-0001/sub-strokecase0100_ses-0001_adc.nii.gz",
+                "sub-strokecase0100_ses-0001/sub-strokecase0100_ses-0001_dwi.nii.gz",
+                "sub-strokecase0100_ses-0001/sub-strokecase0100_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0100_ses-0001/sub-strokecase0100_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0101_ses-0001/sub-strokecase0101_ses-0001_adc.nii.gz",
+                "sub-strokecase0101_ses-0001/sub-strokecase0101_ses-0001_dwi.nii.gz",
+                "sub-strokecase0101_ses-0001/sub-strokecase0101_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0101_ses-0001/sub-strokecase0101_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0104_ses-0001/sub-strokecase0104_ses-0001_adc.nii.gz",
+                "sub-strokecase0104_ses-0001/sub-strokecase0104_ses-0001_dwi.nii.gz",
+                "sub-strokecase0104_ses-0001/sub-strokecase0104_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0104_ses-0001/sub-strokecase0104_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0105_ses-0001/sub-strokecase0105_ses-0001_adc.nii.gz",
+                "sub-strokecase0105_ses-0001/sub-strokecase0105_ses-0001_dwi.nii.gz",
+                "sub-strokecase0105_ses-0001/sub-strokecase0105_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0105_ses-0001/sub-strokecase0105_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0106_ses-0001/sub-strokecase0106_ses-0001_adc.nii.gz",
+                "sub-strokecase0106_ses-0001/sub-strokecase0106_ses-0001_dwi.nii.gz",
+                "sub-strokecase0106_ses-0001/sub-strokecase0106_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0106_ses-0001/sub-strokecase0106_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0107_ses-0001/sub-strokecase0107_ses-0001_adc.nii.gz",
+                "sub-strokecase0107_ses-0001/sub-strokecase0107_ses-0001_dwi.nii.gz",
+                "sub-strokecase0107_ses-0001/sub-strokecase0107_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0107_ses-0001/sub-strokecase0107_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0108_ses-0001/sub-strokecase0108_ses-0001_adc.nii.gz",
+                "sub-strokecase0108_ses-0001/sub-strokecase0108_ses-0001_dwi.nii.gz",
+                "sub-strokecase0108_ses-0001/sub-strokecase0108_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0108_ses-0001/sub-strokecase0108_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0109_ses-0001/sub-strokecase0109_ses-0001_adc.nii.gz",
+                "sub-strokecase0109_ses-0001/sub-strokecase0109_ses-0001_dwi.nii.gz",
+                "sub-strokecase0109_ses-0001/sub-strokecase0109_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0109_ses-0001/sub-strokecase0109_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0110_ses-0001/sub-strokecase0110_ses-0001_adc.nii.gz",
+                "sub-strokecase0110_ses-0001/sub-strokecase0110_ses-0001_dwi.nii.gz",
+                "sub-strokecase0110_ses-0001/sub-strokecase0110_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0110_ses-0001/sub-strokecase0110_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0111_ses-0001/sub-strokecase0111_ses-0001_adc.nii.gz",
+                "sub-strokecase0111_ses-0001/sub-strokecase0111_ses-0001_dwi.nii.gz",
+                "sub-strokecase0111_ses-0001/sub-strokecase0111_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0111_ses-0001/sub-strokecase0111_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0113_ses-0001/sub-strokecase0113_ses-0001_adc.nii.gz",
+                "sub-strokecase0113_ses-0001/sub-strokecase0113_ses-0001_dwi.nii.gz",
+                "sub-strokecase0113_ses-0001/sub-strokecase0113_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0113_ses-0001/sub-strokecase0113_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0114_ses-0001/sub-strokecase0114_ses-0001_adc.nii.gz",
+                "sub-strokecase0114_ses-0001/sub-strokecase0114_ses-0001_dwi.nii.gz",
+                "sub-strokecase0114_ses-0001/sub-strokecase0114_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0114_ses-0001/sub-strokecase0114_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0116_ses-0001/sub-strokecase0116_ses-0001_adc.nii.gz",
+                "sub-strokecase0116_ses-0001/sub-strokecase0116_ses-0001_dwi.nii.gz",
+                "sub-strokecase0116_ses-0001/sub-strokecase0116_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0116_ses-0001/sub-strokecase0116_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0117_ses-0001/sub-strokecase0117_ses-0001_adc.nii.gz",
+                "sub-strokecase0117_ses-0001/sub-strokecase0117_ses-0001_dwi.nii.gz",
+                "sub-strokecase0117_ses-0001/sub-strokecase0117_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0117_ses-0001/sub-strokecase0117_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0118_ses-0001/sub-strokecase0118_ses-0001_adc.nii.gz",
+                "sub-strokecase0118_ses-0001/sub-strokecase0118_ses-0001_dwi.nii.gz",
+                "sub-strokecase0118_ses-0001/sub-strokecase0118_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0118_ses-0001/sub-strokecase0118_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0120_ses-0001/sub-strokecase0120_ses-0001_adc.nii.gz",
+                "sub-strokecase0120_ses-0001/sub-strokecase0120_ses-0001_dwi.nii.gz",
+                "sub-strokecase0120_ses-0001/sub-strokecase0120_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0120_ses-0001/sub-strokecase0120_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0122_ses-0001/sub-strokecase0122_ses-0001_adc.nii.gz",
+                "sub-strokecase0122_ses-0001/sub-strokecase0122_ses-0001_dwi.nii.gz",
+                "sub-strokecase0122_ses-0001/sub-strokecase0122_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0122_ses-0001/sub-strokecase0122_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0123_ses-0001/sub-strokecase0123_ses-0001_adc.nii.gz",
+                "sub-strokecase0123_ses-0001/sub-strokecase0123_ses-0001_dwi.nii.gz",
+                "sub-strokecase0123_ses-0001/sub-strokecase0123_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0123_ses-0001/sub-strokecase0123_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0124_ses-0001/sub-strokecase0124_ses-0001_adc.nii.gz",
+                "sub-strokecase0124_ses-0001/sub-strokecase0124_ses-0001_dwi.nii.gz",
+                "sub-strokecase0124_ses-0001/sub-strokecase0124_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0124_ses-0001/sub-strokecase0124_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0125_ses-0001/sub-strokecase0125_ses-0001_adc.nii.gz",
+                "sub-strokecase0125_ses-0001/sub-strokecase0125_ses-0001_dwi.nii.gz",
+                "sub-strokecase0125_ses-0001/sub-strokecase0125_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0125_ses-0001/sub-strokecase0125_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0126_ses-0001/sub-strokecase0126_ses-0001_adc.nii.gz",
+                "sub-strokecase0126_ses-0001/sub-strokecase0126_ses-0001_dwi.nii.gz",
+                "sub-strokecase0126_ses-0001/sub-strokecase0126_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0126_ses-0001/sub-strokecase0126_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0128_ses-0001/sub-strokecase0128_ses-0001_adc.nii.gz",
+                "sub-strokecase0128_ses-0001/sub-strokecase0128_ses-0001_dwi.nii.gz",
+                "sub-strokecase0128_ses-0001/sub-strokecase0128_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0128_ses-0001/sub-strokecase0128_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0131_ses-0001/sub-strokecase0131_ses-0001_adc.nii.gz",
+                "sub-strokecase0131_ses-0001/sub-strokecase0131_ses-0001_dwi.nii.gz",
+                "sub-strokecase0131_ses-0001/sub-strokecase0131_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0131_ses-0001/sub-strokecase0131_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0132_ses-0001/sub-strokecase0132_ses-0001_adc.nii.gz",
+                "sub-strokecase0132_ses-0001/sub-strokecase0132_ses-0001_dwi.nii.gz",
+                "sub-strokecase0132_ses-0001/sub-strokecase0132_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0132_ses-0001/sub-strokecase0132_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0133_ses-0001/sub-strokecase0133_ses-0001_adc.nii.gz",
+                "sub-strokecase0133_ses-0001/sub-strokecase0133_ses-0001_dwi.nii.gz",
+                "sub-strokecase0133_ses-0001/sub-strokecase0133_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0133_ses-0001/sub-strokecase0133_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0134_ses-0001/sub-strokecase0134_ses-0001_adc.nii.gz",
+                "sub-strokecase0134_ses-0001/sub-strokecase0134_ses-0001_dwi.nii.gz",
+                "sub-strokecase0134_ses-0001/sub-strokecase0134_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0134_ses-0001/sub-strokecase0134_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0135_ses-0001/sub-strokecase0135_ses-0001_adc.nii.gz",
+                "sub-strokecase0135_ses-0001/sub-strokecase0135_ses-0001_dwi.nii.gz",
+                "sub-strokecase0135_ses-0001/sub-strokecase0135_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0135_ses-0001/sub-strokecase0135_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0136_ses-0001/sub-strokecase0136_ses-0001_adc.nii.gz",
+                "sub-strokecase0136_ses-0001/sub-strokecase0136_ses-0001_dwi.nii.gz",
+                "sub-strokecase0136_ses-0001/sub-strokecase0136_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0136_ses-0001/sub-strokecase0136_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0137_ses-0001/sub-strokecase0137_ses-0001_adc.nii.gz",
+                "sub-strokecase0137_ses-0001/sub-strokecase0137_ses-0001_dwi.nii.gz",
+                "sub-strokecase0137_ses-0001/sub-strokecase0137_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0137_ses-0001/sub-strokecase0137_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0138_ses-0001/sub-strokecase0138_ses-0001_adc.nii.gz",
+                "sub-strokecase0138_ses-0001/sub-strokecase0138_ses-0001_dwi.nii.gz",
+                "sub-strokecase0138_ses-0001/sub-strokecase0138_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0138_ses-0001/sub-strokecase0138_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0140_ses-0001/sub-strokecase0140_ses-0001_adc.nii.gz",
+                "sub-strokecase0140_ses-0001/sub-strokecase0140_ses-0001_dwi.nii.gz",
+                "sub-strokecase0140_ses-0001/sub-strokecase0140_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0140_ses-0001/sub-strokecase0140_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0141_ses-0001/sub-strokecase0141_ses-0001_adc.nii.gz",
+                "sub-strokecase0141_ses-0001/sub-strokecase0141_ses-0001_dwi.nii.gz",
+                "sub-strokecase0141_ses-0001/sub-strokecase0141_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0141_ses-0001/sub-strokecase0141_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0142_ses-0001/sub-strokecase0142_ses-0001_adc.nii.gz",
+                "sub-strokecase0142_ses-0001/sub-strokecase0142_ses-0001_dwi.nii.gz",
+                "sub-strokecase0142_ses-0001/sub-strokecase0142_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0142_ses-0001/sub-strokecase0142_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0145_ses-0001/sub-strokecase0145_ses-0001_adc.nii.gz",
+                "sub-strokecase0145_ses-0001/sub-strokecase0145_ses-0001_dwi.nii.gz",
+                "sub-strokecase0145_ses-0001/sub-strokecase0145_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0145_ses-0001/sub-strokecase0145_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0146_ses-0001/sub-strokecase0146_ses-0001_adc.nii.gz",
+                "sub-strokecase0146_ses-0001/sub-strokecase0146_ses-0001_dwi.nii.gz",
+                "sub-strokecase0146_ses-0001/sub-strokecase0146_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0146_ses-0001/sub-strokecase0146_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0148_ses-0001/sub-strokecase0148_ses-0001_adc.nii.gz",
+                "sub-strokecase0148_ses-0001/sub-strokecase0148_ses-0001_dwi.nii.gz",
+                "sub-strokecase0148_ses-0001/sub-strokecase0148_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0148_ses-0001/sub-strokecase0148_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0150_ses-0001/sub-strokecase0150_ses-0001_adc.nii.gz",
+                "sub-strokecase0150_ses-0001/sub-strokecase0150_ses-0001_dwi.nii.gz",
+                "sub-strokecase0150_ses-0001/sub-strokecase0150_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0150_ses-0001/sub-strokecase0150_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0152_ses-0001/sub-strokecase0152_ses-0001_adc.nii.gz",
+                "sub-strokecase0152_ses-0001/sub-strokecase0152_ses-0001_dwi.nii.gz",
+                "sub-strokecase0152_ses-0001/sub-strokecase0152_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0152_ses-0001/sub-strokecase0152_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0153_ses-0001/sub-strokecase0153_ses-0001_adc.nii.gz",
+                "sub-strokecase0153_ses-0001/sub-strokecase0153_ses-0001_dwi.nii.gz",
+                "sub-strokecase0153_ses-0001/sub-strokecase0153_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0153_ses-0001/sub-strokecase0153_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0154_ses-0001/sub-strokecase0154_ses-0001_adc.nii.gz",
+                "sub-strokecase0154_ses-0001/sub-strokecase0154_ses-0001_dwi.nii.gz",
+                "sub-strokecase0154_ses-0001/sub-strokecase0154_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0154_ses-0001/sub-strokecase0154_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0155_ses-0001/sub-strokecase0155_ses-0001_adc.nii.gz",
+                "sub-strokecase0155_ses-0001/sub-strokecase0155_ses-0001_dwi.nii.gz",
+                "sub-strokecase0155_ses-0001/sub-strokecase0155_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0155_ses-0001/sub-strokecase0155_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0156_ses-0001/sub-strokecase0156_ses-0001_adc.nii.gz",
+                "sub-strokecase0156_ses-0001/sub-strokecase0156_ses-0001_dwi.nii.gz",
+                "sub-strokecase0156_ses-0001/sub-strokecase0156_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0156_ses-0001/sub-strokecase0156_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0157_ses-0001/sub-strokecase0157_ses-0001_adc.nii.gz",
+                "sub-strokecase0157_ses-0001/sub-strokecase0157_ses-0001_dwi.nii.gz",
+                "sub-strokecase0157_ses-0001/sub-strokecase0157_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0157_ses-0001/sub-strokecase0157_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0159_ses-0001/sub-strokecase0159_ses-0001_adc.nii.gz",
+                "sub-strokecase0159_ses-0001/sub-strokecase0159_ses-0001_dwi.nii.gz",
+                "sub-strokecase0159_ses-0001/sub-strokecase0159_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0159_ses-0001/sub-strokecase0159_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0160_ses-0001/sub-strokecase0160_ses-0001_adc.nii.gz",
+                "sub-strokecase0160_ses-0001/sub-strokecase0160_ses-0001_dwi.nii.gz",
+                "sub-strokecase0160_ses-0001/sub-strokecase0160_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0160_ses-0001/sub-strokecase0160_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0161_ses-0001/sub-strokecase0161_ses-0001_adc.nii.gz",
+                "sub-strokecase0161_ses-0001/sub-strokecase0161_ses-0001_dwi.nii.gz",
+                "sub-strokecase0161_ses-0001/sub-strokecase0161_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0161_ses-0001/sub-strokecase0161_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0163_ses-0001/sub-strokecase0163_ses-0001_adc.nii.gz",
+                "sub-strokecase0163_ses-0001/sub-strokecase0163_ses-0001_dwi.nii.gz",
+                "sub-strokecase0163_ses-0001/sub-strokecase0163_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0163_ses-0001/sub-strokecase0163_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0164_ses-0001/sub-strokecase0164_ses-0001_adc.nii.gz",
+                "sub-strokecase0164_ses-0001/sub-strokecase0164_ses-0001_dwi.nii.gz",
+                "sub-strokecase0164_ses-0001/sub-strokecase0164_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0164_ses-0001/sub-strokecase0164_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0165_ses-0001/sub-strokecase0165_ses-0001_adc.nii.gz",
+                "sub-strokecase0165_ses-0001/sub-strokecase0165_ses-0001_dwi.nii.gz",
+                "sub-strokecase0165_ses-0001/sub-strokecase0165_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0165_ses-0001/sub-strokecase0165_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0167_ses-0001/sub-strokecase0167_ses-0001_adc.nii.gz",
+                "sub-strokecase0167_ses-0001/sub-strokecase0167_ses-0001_dwi.nii.gz",
+                "sub-strokecase0167_ses-0001/sub-strokecase0167_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0167_ses-0001/sub-strokecase0167_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0168_ses-0001/sub-strokecase0168_ses-0001_adc.nii.gz",
+                "sub-strokecase0168_ses-0001/sub-strokecase0168_ses-0001_dwi.nii.gz",
+                "sub-strokecase0168_ses-0001/sub-strokecase0168_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0168_ses-0001/sub-strokecase0168_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0170_ses-0001/sub-strokecase0170_ses-0001_adc.nii.gz",
+                "sub-strokecase0170_ses-0001/sub-strokecase0170_ses-0001_dwi.nii.gz",
+                "sub-strokecase0170_ses-0001/sub-strokecase0170_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0170_ses-0001/sub-strokecase0170_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0171_ses-0001/sub-strokecase0171_ses-0001_adc.nii.gz",
+                "sub-strokecase0171_ses-0001/sub-strokecase0171_ses-0001_dwi.nii.gz",
+                "sub-strokecase0171_ses-0001/sub-strokecase0171_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0171_ses-0001/sub-strokecase0171_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0173_ses-0001/sub-strokecase0173_ses-0001_adc.nii.gz",
+                "sub-strokecase0173_ses-0001/sub-strokecase0173_ses-0001_dwi.nii.gz",
+                "sub-strokecase0173_ses-0001/sub-strokecase0173_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0173_ses-0001/sub-strokecase0173_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0174_ses-0001/sub-strokecase0174_ses-0001_adc.nii.gz",
+                "sub-strokecase0174_ses-0001/sub-strokecase0174_ses-0001_dwi.nii.gz",
+                "sub-strokecase0174_ses-0001/sub-strokecase0174_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0174_ses-0001/sub-strokecase0174_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0175_ses-0001/sub-strokecase0175_ses-0001_adc.nii.gz",
+                "sub-strokecase0175_ses-0001/sub-strokecase0175_ses-0001_dwi.nii.gz",
+                "sub-strokecase0175_ses-0001/sub-strokecase0175_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0175_ses-0001/sub-strokecase0175_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0176_ses-0001/sub-strokecase0176_ses-0001_adc.nii.gz",
+                "sub-strokecase0176_ses-0001/sub-strokecase0176_ses-0001_dwi.nii.gz",
+                "sub-strokecase0176_ses-0001/sub-strokecase0176_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0176_ses-0001/sub-strokecase0176_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0177_ses-0001/sub-strokecase0177_ses-0001_adc.nii.gz",
+                "sub-strokecase0177_ses-0001/sub-strokecase0177_ses-0001_dwi.nii.gz",
+                "sub-strokecase0177_ses-0001/sub-strokecase0177_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0177_ses-0001/sub-strokecase0177_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0178_ses-0001/sub-strokecase0178_ses-0001_adc.nii.gz",
+                "sub-strokecase0178_ses-0001/sub-strokecase0178_ses-0001_dwi.nii.gz",
+                "sub-strokecase0178_ses-0001/sub-strokecase0178_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0178_ses-0001/sub-strokecase0178_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0179_ses-0001/sub-strokecase0179_ses-0001_adc.nii.gz",
+                "sub-strokecase0179_ses-0001/sub-strokecase0179_ses-0001_dwi.nii.gz",
+                "sub-strokecase0179_ses-0001/sub-strokecase0179_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0179_ses-0001/sub-strokecase0179_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0180_ses-0001/sub-strokecase0180_ses-0001_adc.nii.gz",
+                "sub-strokecase0180_ses-0001/sub-strokecase0180_ses-0001_dwi.nii.gz",
+                "sub-strokecase0180_ses-0001/sub-strokecase0180_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0180_ses-0001/sub-strokecase0180_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0184_ses-0001/sub-strokecase0184_ses-0001_adc.nii.gz",
+                "sub-strokecase0184_ses-0001/sub-strokecase0184_ses-0001_dwi.nii.gz",
+                "sub-strokecase0184_ses-0001/sub-strokecase0184_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0184_ses-0001/sub-strokecase0184_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0185_ses-0001/sub-strokecase0185_ses-0001_adc.nii.gz",
+                "sub-strokecase0185_ses-0001/sub-strokecase0185_ses-0001_dwi.nii.gz",
+                "sub-strokecase0185_ses-0001/sub-strokecase0185_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0185_ses-0001/sub-strokecase0185_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0186_ses-0001/sub-strokecase0186_ses-0001_adc.nii.gz",
+                "sub-strokecase0186_ses-0001/sub-strokecase0186_ses-0001_dwi.nii.gz",
+                "sub-strokecase0186_ses-0001/sub-strokecase0186_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0186_ses-0001/sub-strokecase0186_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0187_ses-0001/sub-strokecase0187_ses-0001_adc.nii.gz",
+                "sub-strokecase0187_ses-0001/sub-strokecase0187_ses-0001_dwi.nii.gz",
+                "sub-strokecase0187_ses-0001/sub-strokecase0187_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0187_ses-0001/sub-strokecase0187_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0188_ses-0001/sub-strokecase0188_ses-0001_adc.nii.gz",
+                "sub-strokecase0188_ses-0001/sub-strokecase0188_ses-0001_dwi.nii.gz",
+                "sub-strokecase0188_ses-0001/sub-strokecase0188_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0188_ses-0001/sub-strokecase0188_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0190_ses-0001/sub-strokecase0190_ses-0001_adc.nii.gz",
+                "sub-strokecase0190_ses-0001/sub-strokecase0190_ses-0001_dwi.nii.gz",
+                "sub-strokecase0190_ses-0001/sub-strokecase0190_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0190_ses-0001/sub-strokecase0190_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0191_ses-0001/sub-strokecase0191_ses-0001_adc.nii.gz",
+                "sub-strokecase0191_ses-0001/sub-strokecase0191_ses-0001_dwi.nii.gz",
+                "sub-strokecase0191_ses-0001/sub-strokecase0191_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0191_ses-0001/sub-strokecase0191_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0192_ses-0001/sub-strokecase0192_ses-0001_adc.nii.gz",
+                "sub-strokecase0192_ses-0001/sub-strokecase0192_ses-0001_dwi.nii.gz",
+                "sub-strokecase0192_ses-0001/sub-strokecase0192_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0192_ses-0001/sub-strokecase0192_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0193_ses-0001/sub-strokecase0193_ses-0001_adc.nii.gz",
+                "sub-strokecase0193_ses-0001/sub-strokecase0193_ses-0001_dwi.nii.gz",
+                "sub-strokecase0193_ses-0001/sub-strokecase0193_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0193_ses-0001/sub-strokecase0193_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0194_ses-0001/sub-strokecase0194_ses-0001_adc.nii.gz",
+                "sub-strokecase0194_ses-0001/sub-strokecase0194_ses-0001_dwi.nii.gz",
+                "sub-strokecase0194_ses-0001/sub-strokecase0194_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0194_ses-0001/sub-strokecase0194_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0195_ses-0001/sub-strokecase0195_ses-0001_adc.nii.gz",
+                "sub-strokecase0195_ses-0001/sub-strokecase0195_ses-0001_dwi.nii.gz",
+                "sub-strokecase0195_ses-0001/sub-strokecase0195_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0195_ses-0001/sub-strokecase0195_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0196_ses-0001/sub-strokecase0196_ses-0001_adc.nii.gz",
+                "sub-strokecase0196_ses-0001/sub-strokecase0196_ses-0001_dwi.nii.gz",
+                "sub-strokecase0196_ses-0001/sub-strokecase0196_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0196_ses-0001/sub-strokecase0196_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0197_ses-0001/sub-strokecase0197_ses-0001_adc.nii.gz",
+                "sub-strokecase0197_ses-0001/sub-strokecase0197_ses-0001_dwi.nii.gz",
+                "sub-strokecase0197_ses-0001/sub-strokecase0197_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0197_ses-0001/sub-strokecase0197_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0198_ses-0001/sub-strokecase0198_ses-0001_adc.nii.gz",
+                "sub-strokecase0198_ses-0001/sub-strokecase0198_ses-0001_dwi.nii.gz",
+                "sub-strokecase0198_ses-0001/sub-strokecase0198_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0198_ses-0001/sub-strokecase0198_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0199_ses-0001/sub-strokecase0199_ses-0001_adc.nii.gz",
+                "sub-strokecase0199_ses-0001/sub-strokecase0199_ses-0001_dwi.nii.gz",
+                "sub-strokecase0199_ses-0001/sub-strokecase0199_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0199_ses-0001/sub-strokecase0199_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0200_ses-0001/sub-strokecase0200_ses-0001_adc.nii.gz",
+                "sub-strokecase0200_ses-0001/sub-strokecase0200_ses-0001_dwi.nii.gz",
+                "sub-strokecase0200_ses-0001/sub-strokecase0200_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0200_ses-0001/sub-strokecase0200_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0201_ses-0001/sub-strokecase0201_ses-0001_adc.nii.gz",
+                "sub-strokecase0201_ses-0001/sub-strokecase0201_ses-0001_dwi.nii.gz",
+                "sub-strokecase0201_ses-0001/sub-strokecase0201_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0201_ses-0001/sub-strokecase0201_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0203_ses-0001/sub-strokecase0203_ses-0001_adc.nii.gz",
+                "sub-strokecase0203_ses-0001/sub-strokecase0203_ses-0001_dwi.nii.gz",
+                "sub-strokecase0203_ses-0001/sub-strokecase0203_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0203_ses-0001/sub-strokecase0203_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0204_ses-0001/sub-strokecase0204_ses-0001_adc.nii.gz",
+                "sub-strokecase0204_ses-0001/sub-strokecase0204_ses-0001_dwi.nii.gz",
+                "sub-strokecase0204_ses-0001/sub-strokecase0204_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0204_ses-0001/sub-strokecase0204_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0205_ses-0001/sub-strokecase0205_ses-0001_adc.nii.gz",
+                "sub-strokecase0205_ses-0001/sub-strokecase0205_ses-0001_dwi.nii.gz",
+                "sub-strokecase0205_ses-0001/sub-strokecase0205_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0205_ses-0001/sub-strokecase0205_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0207_ses-0001/sub-strokecase0207_ses-0001_adc.nii.gz",
+                "sub-strokecase0207_ses-0001/sub-strokecase0207_ses-0001_dwi.nii.gz",
+                "sub-strokecase0207_ses-0001/sub-strokecase0207_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0207_ses-0001/sub-strokecase0207_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0208_ses-0001/sub-strokecase0208_ses-0001_adc.nii.gz",
+                "sub-strokecase0208_ses-0001/sub-strokecase0208_ses-0001_dwi.nii.gz",
+                "sub-strokecase0208_ses-0001/sub-strokecase0208_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0208_ses-0001/sub-strokecase0208_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0209_ses-0001/sub-strokecase0209_ses-0001_adc.nii.gz",
+                "sub-strokecase0209_ses-0001/sub-strokecase0209_ses-0001_dwi.nii.gz",
+                "sub-strokecase0209_ses-0001/sub-strokecase0209_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0209_ses-0001/sub-strokecase0209_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0210_ses-0001/sub-strokecase0210_ses-0001_adc.nii.gz",
+                "sub-strokecase0210_ses-0001/sub-strokecase0210_ses-0001_dwi.nii.gz",
+                "sub-strokecase0210_ses-0001/sub-strokecase0210_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0210_ses-0001/sub-strokecase0210_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0212_ses-0001/sub-strokecase0212_ses-0001_adc.nii.gz",
+                "sub-strokecase0212_ses-0001/sub-strokecase0212_ses-0001_dwi.nii.gz",
+                "sub-strokecase0212_ses-0001/sub-strokecase0212_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0212_ses-0001/sub-strokecase0212_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0213_ses-0001/sub-strokecase0213_ses-0001_adc.nii.gz",
+                "sub-strokecase0213_ses-0001/sub-strokecase0213_ses-0001_dwi.nii.gz",
+                "sub-strokecase0213_ses-0001/sub-strokecase0213_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0213_ses-0001/sub-strokecase0213_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0214_ses-0001/sub-strokecase0214_ses-0001_adc.nii.gz",
+                "sub-strokecase0214_ses-0001/sub-strokecase0214_ses-0001_dwi.nii.gz",
+                "sub-strokecase0214_ses-0001/sub-strokecase0214_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0214_ses-0001/sub-strokecase0214_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0215_ses-0001/sub-strokecase0215_ses-0001_adc.nii.gz",
+                "sub-strokecase0215_ses-0001/sub-strokecase0215_ses-0001_dwi.nii.gz",
+                "sub-strokecase0215_ses-0001/sub-strokecase0215_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0215_ses-0001/sub-strokecase0215_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0216_ses-0001/sub-strokecase0216_ses-0001_adc.nii.gz",
+                "sub-strokecase0216_ses-0001/sub-strokecase0216_ses-0001_dwi.nii.gz",
+                "sub-strokecase0216_ses-0001/sub-strokecase0216_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0216_ses-0001/sub-strokecase0216_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0217_ses-0001/sub-strokecase0217_ses-0001_adc.nii.gz",
+                "sub-strokecase0217_ses-0001/sub-strokecase0217_ses-0001_dwi.nii.gz",
+                "sub-strokecase0217_ses-0001/sub-strokecase0217_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0217_ses-0001/sub-strokecase0217_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0218_ses-0001/sub-strokecase0218_ses-0001_adc.nii.gz",
+                "sub-strokecase0218_ses-0001/sub-strokecase0218_ses-0001_dwi.nii.gz",
+                "sub-strokecase0218_ses-0001/sub-strokecase0218_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0218_ses-0001/sub-strokecase0218_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0219_ses-0001/sub-strokecase0219_ses-0001_adc.nii.gz",
+                "sub-strokecase0219_ses-0001/sub-strokecase0219_ses-0001_dwi.nii.gz",
+                "sub-strokecase0219_ses-0001/sub-strokecase0219_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0219_ses-0001/sub-strokecase0219_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0221_ses-0001/sub-strokecase0221_ses-0001_adc.nii.gz",
+                "sub-strokecase0221_ses-0001/sub-strokecase0221_ses-0001_dwi.nii.gz",
+                "sub-strokecase0221_ses-0001/sub-strokecase0221_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0221_ses-0001/sub-strokecase0221_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0222_ses-0001/sub-strokecase0222_ses-0001_adc.nii.gz",
+                "sub-strokecase0222_ses-0001/sub-strokecase0222_ses-0001_dwi.nii.gz",
+                "sub-strokecase0222_ses-0001/sub-strokecase0222_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0222_ses-0001/sub-strokecase0222_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0223_ses-0001/sub-strokecase0223_ses-0001_adc.nii.gz",
+                "sub-strokecase0223_ses-0001/sub-strokecase0223_ses-0001_dwi.nii.gz",
+                "sub-strokecase0223_ses-0001/sub-strokecase0223_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0223_ses-0001/sub-strokecase0223_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0224_ses-0001/sub-strokecase0224_ses-0001_adc.nii.gz",
+                "sub-strokecase0224_ses-0001/sub-strokecase0224_ses-0001_dwi.nii.gz",
+                "sub-strokecase0224_ses-0001/sub-strokecase0224_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0224_ses-0001/sub-strokecase0224_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0226_ses-0001/sub-strokecase0226_ses-0001_adc.nii.gz",
+                "sub-strokecase0226_ses-0001/sub-strokecase0226_ses-0001_dwi.nii.gz",
+                "sub-strokecase0226_ses-0001/sub-strokecase0226_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0226_ses-0001/sub-strokecase0226_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0227_ses-0001/sub-strokecase0227_ses-0001_adc.nii.gz",
+                "sub-strokecase0227_ses-0001/sub-strokecase0227_ses-0001_dwi.nii.gz",
+                "sub-strokecase0227_ses-0001/sub-strokecase0227_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0227_ses-0001/sub-strokecase0227_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0228_ses-0001/sub-strokecase0228_ses-0001_adc.nii.gz",
+                "sub-strokecase0228_ses-0001/sub-strokecase0228_ses-0001_dwi.nii.gz",
+                "sub-strokecase0228_ses-0001/sub-strokecase0228_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0228_ses-0001/sub-strokecase0228_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0229_ses-0001/sub-strokecase0229_ses-0001_adc.nii.gz",
+                "sub-strokecase0229_ses-0001/sub-strokecase0229_ses-0001_dwi.nii.gz",
+                "sub-strokecase0229_ses-0001/sub-strokecase0229_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0229_ses-0001/sub-strokecase0229_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0231_ses-0001/sub-strokecase0231_ses-0001_adc.nii.gz",
+                "sub-strokecase0231_ses-0001/sub-strokecase0231_ses-0001_dwi.nii.gz",
+                "sub-strokecase0231_ses-0001/sub-strokecase0231_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0231_ses-0001/sub-strokecase0231_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0232_ses-0001/sub-strokecase0232_ses-0001_adc.nii.gz",
+                "sub-strokecase0232_ses-0001/sub-strokecase0232_ses-0001_dwi.nii.gz",
+                "sub-strokecase0232_ses-0001/sub-strokecase0232_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0232_ses-0001/sub-strokecase0232_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0233_ses-0001/sub-strokecase0233_ses-0001_adc.nii.gz",
+                "sub-strokecase0233_ses-0001/sub-strokecase0233_ses-0001_dwi.nii.gz",
+                "sub-strokecase0233_ses-0001/sub-strokecase0233_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0233_ses-0001/sub-strokecase0233_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0234_ses-0001/sub-strokecase0234_ses-0001_adc.nii.gz",
+                "sub-strokecase0234_ses-0001/sub-strokecase0234_ses-0001_dwi.nii.gz",
+                "sub-strokecase0234_ses-0001/sub-strokecase0234_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0234_ses-0001/sub-strokecase0234_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0235_ses-0001/sub-strokecase0235_ses-0001_adc.nii.gz",
+                "sub-strokecase0235_ses-0001/sub-strokecase0235_ses-0001_dwi.nii.gz",
+                "sub-strokecase0235_ses-0001/sub-strokecase0235_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0235_ses-0001/sub-strokecase0235_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0237_ses-0001/sub-strokecase0237_ses-0001_adc.nii.gz",
+                "sub-strokecase0237_ses-0001/sub-strokecase0237_ses-0001_dwi.nii.gz",
+                "sub-strokecase0237_ses-0001/sub-strokecase0237_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0237_ses-0001/sub-strokecase0237_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0238_ses-0001/sub-strokecase0238_ses-0001_adc.nii.gz",
+                "sub-strokecase0238_ses-0001/sub-strokecase0238_ses-0001_dwi.nii.gz",
+                "sub-strokecase0238_ses-0001/sub-strokecase0238_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0238_ses-0001/sub-strokecase0238_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0239_ses-0001/sub-strokecase0239_ses-0001_adc.nii.gz",
+                "sub-strokecase0239_ses-0001/sub-strokecase0239_ses-0001_dwi.nii.gz",
+                "sub-strokecase0239_ses-0001/sub-strokecase0239_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0239_ses-0001/sub-strokecase0239_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0240_ses-0001/sub-strokecase0240_ses-0001_adc.nii.gz",
+                "sub-strokecase0240_ses-0001/sub-strokecase0240_ses-0001_dwi.nii.gz",
+                "sub-strokecase0240_ses-0001/sub-strokecase0240_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0240_ses-0001/sub-strokecase0240_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0241_ses-0001/sub-strokecase0241_ses-0001_adc.nii.gz",
+                "sub-strokecase0241_ses-0001/sub-strokecase0241_ses-0001_dwi.nii.gz",
+                "sub-strokecase0241_ses-0001/sub-strokecase0241_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0241_ses-0001/sub-strokecase0241_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0243_ses-0001/sub-strokecase0243_ses-0001_adc.nii.gz",
+                "sub-strokecase0243_ses-0001/sub-strokecase0243_ses-0001_dwi.nii.gz",
+                "sub-strokecase0243_ses-0001/sub-strokecase0243_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0243_ses-0001/sub-strokecase0243_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0244_ses-0001/sub-strokecase0244_ses-0001_adc.nii.gz",
+                "sub-strokecase0244_ses-0001/sub-strokecase0244_ses-0001_dwi.nii.gz",
+                "sub-strokecase0244_ses-0001/sub-strokecase0244_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0244_ses-0001/sub-strokecase0244_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0245_ses-0001/sub-strokecase0245_ses-0001_adc.nii.gz",
+                "sub-strokecase0245_ses-0001/sub-strokecase0245_ses-0001_dwi.nii.gz",
+                "sub-strokecase0245_ses-0001/sub-strokecase0245_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0245_ses-0001/sub-strokecase0245_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0246_ses-0001/sub-strokecase0246_ses-0001_adc.nii.gz",
+                "sub-strokecase0246_ses-0001/sub-strokecase0246_ses-0001_dwi.nii.gz",
+                "sub-strokecase0246_ses-0001/sub-strokecase0246_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0246_ses-0001/sub-strokecase0246_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0247_ses-0001/sub-strokecase0247_ses-0001_adc.nii.gz",
+                "sub-strokecase0247_ses-0001/sub-strokecase0247_ses-0001_dwi.nii.gz",
+                "sub-strokecase0247_ses-0001/sub-strokecase0247_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0247_ses-0001/sub-strokecase0247_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0248_ses-0001/sub-strokecase0248_ses-0001_adc.nii.gz",
+                "sub-strokecase0248_ses-0001/sub-strokecase0248_ses-0001_dwi.nii.gz",
+                "sub-strokecase0248_ses-0001/sub-strokecase0248_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0248_ses-0001/sub-strokecase0248_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0249_ses-0001/sub-strokecase0249_ses-0001_adc.nii.gz",
+                "sub-strokecase0249_ses-0001/sub-strokecase0249_ses-0001_dwi.nii.gz",
+                "sub-strokecase0249_ses-0001/sub-strokecase0249_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0249_ses-0001/sub-strokecase0249_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0250_ses-0001/sub-strokecase0250_ses-0001_adc.nii.gz",
+                "sub-strokecase0250_ses-0001/sub-strokecase0250_ses-0001_dwi.nii.gz",
+                "sub-strokecase0250_ses-0001/sub-strokecase0250_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0250_ses-0001/sub-strokecase0250_ses-0001_msk.nii.gz"
+        }
+    ],
+    "test": [
+        {
+            "image": [
+                "sub-strokecase0005_ses-0001/sub-strokecase0005_ses-0001_adc.nii.gz",
+                "sub-strokecase0005_ses-0001/sub-strokecase0005_ses-0001_dwi.nii.gz",
+                "sub-strokecase0005_ses-0001/sub-strokecase0005_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0005_ses-0001/sub-strokecase0005_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0020_ses-0001/sub-strokecase0020_ses-0001_adc.nii.gz",
+                "sub-strokecase0020_ses-0001/sub-strokecase0020_ses-0001_dwi.nii.gz",
+                "sub-strokecase0020_ses-0001/sub-strokecase0020_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0020_ses-0001/sub-strokecase0020_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0026_ses-0001/sub-strokecase0026_ses-0001_adc.nii.gz",
+                "sub-strokecase0026_ses-0001/sub-strokecase0026_ses-0001_dwi.nii.gz",
+                "sub-strokecase0026_ses-0001/sub-strokecase0026_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0026_ses-0001/sub-strokecase0026_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0033_ses-0001/sub-strokecase0033_ses-0001_adc.nii.gz",
+                "sub-strokecase0033_ses-0001/sub-strokecase0033_ses-0001_dwi.nii.gz",
+                "sub-strokecase0033_ses-0001/sub-strokecase0033_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0033_ses-0001/sub-strokecase0033_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0034_ses-0001/sub-strokecase0034_ses-0001_adc.nii.gz",
+                "sub-strokecase0034_ses-0001/sub-strokecase0034_ses-0001_dwi.nii.gz",
+                "sub-strokecase0034_ses-0001/sub-strokecase0034_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0034_ses-0001/sub-strokecase0034_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0035_ses-0001/sub-strokecase0035_ses-0001_adc.nii.gz",
+                "sub-strokecase0035_ses-0001/sub-strokecase0035_ses-0001_dwi.nii.gz",
+                "sub-strokecase0035_ses-0001/sub-strokecase0035_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0035_ses-0001/sub-strokecase0035_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0057_ses-0001/sub-strokecase0057_ses-0001_adc.nii.gz",
+                "sub-strokecase0057_ses-0001/sub-strokecase0057_ses-0001_dwi.nii.gz",
+                "sub-strokecase0057_ses-0001/sub-strokecase0057_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0057_ses-0001/sub-strokecase0057_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0061_ses-0001/sub-strokecase0061_ses-0001_adc.nii.gz",
+                "sub-strokecase0061_ses-0001/sub-strokecase0061_ses-0001_dwi.nii.gz",
+                "sub-strokecase0061_ses-0001/sub-strokecase0061_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0061_ses-0001/sub-strokecase0061_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0062_ses-0001/sub-strokecase0062_ses-0001_adc.nii.gz",
+                "sub-strokecase0062_ses-0001/sub-strokecase0062_ses-0001_dwi.nii.gz",
+                "sub-strokecase0062_ses-0001/sub-strokecase0062_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0062_ses-0001/sub-strokecase0062_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0074_ses-0001/sub-strokecase0074_ses-0001_adc.nii.gz",
+                "sub-strokecase0074_ses-0001/sub-strokecase0074_ses-0001_dwi.nii.gz",
+                "sub-strokecase0074_ses-0001/sub-strokecase0074_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0074_ses-0001/sub-strokecase0074_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0092_ses-0001/sub-strokecase0092_ses-0001_adc.nii.gz",
+                "sub-strokecase0092_ses-0001/sub-strokecase0092_ses-0001_dwi.nii.gz",
+                "sub-strokecase0092_ses-0001/sub-strokecase0092_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0092_ses-0001/sub-strokecase0092_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0102_ses-0001/sub-strokecase0102_ses-0001_adc.nii.gz",
+                "sub-strokecase0102_ses-0001/sub-strokecase0102_ses-0001_dwi.nii.gz",
+                "sub-strokecase0102_ses-0001/sub-strokecase0102_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0102_ses-0001/sub-strokecase0102_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0115_ses-0001/sub-strokecase0115_ses-0001_adc.nii.gz",
+                "sub-strokecase0115_ses-0001/sub-strokecase0115_ses-0001_dwi.nii.gz",
+                "sub-strokecase0115_ses-0001/sub-strokecase0115_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0115_ses-0001/sub-strokecase0115_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0119_ses-0001/sub-strokecase0119_ses-0001_adc.nii.gz",
+                "sub-strokecase0119_ses-0001/sub-strokecase0119_ses-0001_dwi.nii.gz",
+                "sub-strokecase0119_ses-0001/sub-strokecase0119_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0119_ses-0001/sub-strokecase0119_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0127_ses-0001/sub-strokecase0127_ses-0001_adc.nii.gz",
+                "sub-strokecase0127_ses-0001/sub-strokecase0127_ses-0001_dwi.nii.gz",
+                "sub-strokecase0127_ses-0001/sub-strokecase0127_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0127_ses-0001/sub-strokecase0127_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0129_ses-0001/sub-strokecase0129_ses-0001_adc.nii.gz",
+                "sub-strokecase0129_ses-0001/sub-strokecase0129_ses-0001_dwi.nii.gz",
+                "sub-strokecase0129_ses-0001/sub-strokecase0129_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0129_ses-0001/sub-strokecase0129_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0139_ses-0001/sub-strokecase0139_ses-0001_adc.nii.gz",
+                "sub-strokecase0139_ses-0001/sub-strokecase0139_ses-0001_dwi.nii.gz",
+                "sub-strokecase0139_ses-0001/sub-strokecase0139_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0139_ses-0001/sub-strokecase0139_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0143_ses-0001/sub-strokecase0143_ses-0001_adc.nii.gz",
+                "sub-strokecase0143_ses-0001/sub-strokecase0143_ses-0001_dwi.nii.gz",
+                "sub-strokecase0143_ses-0001/sub-strokecase0143_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0143_ses-0001/sub-strokecase0143_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0144_ses-0001/sub-strokecase0144_ses-0001_adc.nii.gz",
+                "sub-strokecase0144_ses-0001/sub-strokecase0144_ses-0001_dwi.nii.gz",
+                "sub-strokecase0144_ses-0001/sub-strokecase0144_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0144_ses-0001/sub-strokecase0144_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0147_ses-0001/sub-strokecase0147_ses-0001_adc.nii.gz",
+                "sub-strokecase0147_ses-0001/sub-strokecase0147_ses-0001_dwi.nii.gz",
+                "sub-strokecase0147_ses-0001/sub-strokecase0147_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0147_ses-0001/sub-strokecase0147_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0149_ses-0001/sub-strokecase0149_ses-0001_adc.nii.gz",
+                "sub-strokecase0149_ses-0001/sub-strokecase0149_ses-0001_dwi.nii.gz",
+                "sub-strokecase0149_ses-0001/sub-strokecase0149_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0149_ses-0001/sub-strokecase0149_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0151_ses-0001/sub-strokecase0151_ses-0001_adc.nii.gz",
+                "sub-strokecase0151_ses-0001/sub-strokecase0151_ses-0001_dwi.nii.gz",
+                "sub-strokecase0151_ses-0001/sub-strokecase0151_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0151_ses-0001/sub-strokecase0151_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0158_ses-0001/sub-strokecase0158_ses-0001_adc.nii.gz",
+                "sub-strokecase0158_ses-0001/sub-strokecase0158_ses-0001_dwi.nii.gz",
+                "sub-strokecase0158_ses-0001/sub-strokecase0158_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0158_ses-0001/sub-strokecase0158_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0162_ses-0001/sub-strokecase0162_ses-0001_adc.nii.gz",
+                "sub-strokecase0162_ses-0001/sub-strokecase0162_ses-0001_dwi.nii.gz",
+                "sub-strokecase0162_ses-0001/sub-strokecase0162_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0162_ses-0001/sub-strokecase0162_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0166_ses-0001/sub-strokecase0166_ses-0001_adc.nii.gz",
+                "sub-strokecase0166_ses-0001/sub-strokecase0166_ses-0001_dwi.nii.gz",
+                "sub-strokecase0166_ses-0001/sub-strokecase0166_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0166_ses-0001/sub-strokecase0166_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0169_ses-0001/sub-strokecase0169_ses-0001_adc.nii.gz",
+                "sub-strokecase0169_ses-0001/sub-strokecase0169_ses-0001_dwi.nii.gz",
+                "sub-strokecase0169_ses-0001/sub-strokecase0169_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0169_ses-0001/sub-strokecase0169_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0172_ses-0001/sub-strokecase0172_ses-0001_adc.nii.gz",
+                "sub-strokecase0172_ses-0001/sub-strokecase0172_ses-0001_dwi.nii.gz",
+                "sub-strokecase0172_ses-0001/sub-strokecase0172_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0172_ses-0001/sub-strokecase0172_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0181_ses-0001/sub-strokecase0181_ses-0001_adc.nii.gz",
+                "sub-strokecase0181_ses-0001/sub-strokecase0181_ses-0001_dwi.nii.gz",
+                "sub-strokecase0181_ses-0001/sub-strokecase0181_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0181_ses-0001/sub-strokecase0181_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0182_ses-0001/sub-strokecase0182_ses-0001_adc.nii.gz",
+                "sub-strokecase0182_ses-0001/sub-strokecase0182_ses-0001_dwi.nii.gz",
+                "sub-strokecase0182_ses-0001/sub-strokecase0182_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0182_ses-0001/sub-strokecase0182_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0183_ses-0001/sub-strokecase0183_ses-0001_adc.nii.gz",
+                "sub-strokecase0183_ses-0001/sub-strokecase0183_ses-0001_dwi.nii.gz",
+                "sub-strokecase0183_ses-0001/sub-strokecase0183_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0183_ses-0001/sub-strokecase0183_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0189_ses-0001/sub-strokecase0189_ses-0001_adc.nii.gz",
+                "sub-strokecase0189_ses-0001/sub-strokecase0189_ses-0001_dwi.nii.gz",
+                "sub-strokecase0189_ses-0001/sub-strokecase0189_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0189_ses-0001/sub-strokecase0189_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0206_ses-0001/sub-strokecase0206_ses-0001_adc.nii.gz",
+                "sub-strokecase0206_ses-0001/sub-strokecase0206_ses-0001_dwi.nii.gz",
+                "sub-strokecase0206_ses-0001/sub-strokecase0206_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0206_ses-0001/sub-strokecase0206_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0225_ses-0001/sub-strokecase0225_ses-0001_adc.nii.gz",
+                "sub-strokecase0225_ses-0001/sub-strokecase0225_ses-0001_dwi.nii.gz",
+                "sub-strokecase0225_ses-0001/sub-strokecase0225_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0225_ses-0001/sub-strokecase0225_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0230_ses-0001/sub-strokecase0230_ses-0001_adc.nii.gz",
+                "sub-strokecase0230_ses-0001/sub-strokecase0230_ses-0001_dwi.nii.gz",
+                "sub-strokecase0230_ses-0001/sub-strokecase0230_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0230_ses-0001/sub-strokecase0230_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0236_ses-0001/sub-strokecase0236_ses-0001_adc.nii.gz",
+                "sub-strokecase0236_ses-0001/sub-strokecase0236_ses-0001_dwi.nii.gz",
+                "sub-strokecase0236_ses-0001/sub-strokecase0236_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0236_ses-0001/sub-strokecase0236_ses-0001_msk.nii.gz"
+        },
+        {
+            "image": [
+                "sub-strokecase0242_ses-0001/sub-strokecase0242_ses-0001_adc.nii.gz",
+                "sub-strokecase0242_ses-0001/sub-strokecase0242_ses-0001_dwi.nii.gz",
+                "sub-strokecase0242_ses-0001/sub-strokecase0242_ses-0001_FLAIR.nii.gz"
+            ],
+            "label": "sub-strokecase0242_ses-0001/sub-strokecase0242_ses-0001_msk.nii.gz"
+        }
+    ]
+}
