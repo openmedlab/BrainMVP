@@ -60,11 +60,12 @@ A lot of code is modified from [MONAI](https://github.com/Project-MONAI/MONAI).
 
 If you find this repository useful, please consider citing this paper:
 ```
-@article{rui2024brainmvp,
-  title={BrainMVP: Multi-modal Vision Pre-training for Brain Image Analysis using Multi-parametric MRI},
+@inproceedings{rui2025multi,
+  title={Multi-modal Vision Pre-training for Medical Image Analysis},
   author={Rui, Shaohao and Chen, Lingzhi and Tang, Zhenyu and Wang, Lilong and Liu, Mianxin and Zhang, Shaoting and Wang, Xiaosong},
-  journal={arXiv preprint arXiv:2410.10604},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={5164--5174},
+  year={2025}
 }
 ```
 
