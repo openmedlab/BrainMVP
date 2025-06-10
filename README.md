@@ -21,8 +21,9 @@ Self-supervised learning has greatly facilitated medical image analysis by suppr
 ### Pre-training
 You can download our 16k mpMRI pre-training data on your own or download from our [huggingface repo](https://huggingface.co/datasets/shaohao011/BrainMVP-16k).
 ### Downstream
-All downstream datasets are open-source. If you encounter any difficulties downloading them, please feel free to email ruishaohao@sjtu.edu.cn to request access.
+Dataset available at <a href='https://huggingface.co/datasets/shaohao011/BrainMVP-ds/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 
+All downstream datasets are open-source. If you encounter any difficulties downloading them, please feel free to email ruishaohao@sjtu.edu.cn to request access.
 ## Get Started
 
 **Installation**
