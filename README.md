@@ -4,7 +4,9 @@
 
 Code for our CVPR 2025 paper[Highlight] [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604)
 
-[shaohao011](https://github.com/shaohao011/BrainMVP)   [openmedlab](https://github.com/openmedlab/BrainMVP)
+> ⚠️ **For complete setup instructions and to explore issues raised by other users, please visit our official GitHub repository: [shaohao011/BrainMVP](https://github.com/shaohao011/BrainMVP).**
+
+[openmedlab](https://github.com/openmedlab/BrainMVP)
 TL;DR
 
 This work introduces BrainMVP, the first pre-training framework designed for large-scale missing modality medical imaging. We have made available the pre-training 16k mpMRI images and corresponding pretrained models.
